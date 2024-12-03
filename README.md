@@ -1,3 +1,5 @@
+A3 - Sistemas distribuidos e mobile
+
 Sistema de Gestão de Campeões de F1 (API RESTful)
 
 Este projeto é uma API RESTful para gerenciar campeões de Fórmula 1, permitindo a criação, leitura, atualização e exclusão (CRUD) de informações sobre campeões e seus títulos. A aplicação é construída com Node.js, usando o Express.js para a criação da API e MySQL como banco de dados.
