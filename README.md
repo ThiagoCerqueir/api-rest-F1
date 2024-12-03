@@ -1,4 +1,4 @@
-A3 - Sistemas distribuidos e mobile
+A3 - Sistemas distribuídos e mobile
 
 Sistema de Gestão de Campeões de F1 (API RESTful)
 
